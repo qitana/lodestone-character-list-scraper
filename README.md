@@ -1,0 +1,1 @@
+# lodestone-character-list-scraper
